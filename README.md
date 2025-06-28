@@ -50,5 +50,10 @@ pip install opencv-python mediapipe pyautogui
 ```
 python main.py  
 ```
+### How to Stop
+if you run in terminal:
+```
+Ctrl + C
+```
 
 
